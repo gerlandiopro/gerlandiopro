@@ -1,5 +1,4 @@
 ## Olá, eu sou o Gerlandio e sou desenvolvedor web!
-<p>Apaixonado por Ciência e Tecnologia.</p>
 <p>Atualmente eu trabalho com as seguintes tecnoligas entre outras:</p>
 <div align="center" style="display: inline_block">
 <div>
