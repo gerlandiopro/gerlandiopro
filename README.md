@@ -11,7 +11,7 @@
   <img align="center" alt="JavaScript" height="32" width="170" style="border-radius: 4px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
-
+<hr>
 <p>Back-end (Estudando)</p>
 <div>  
   <img align="center" alt="PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><br>
