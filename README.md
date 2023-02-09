@@ -17,16 +17,6 @@
   <img align="center" alt="PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><br>
 </div>
 
-<hr>
-<p>Versionamento</p>
-<div>  
-  
-  <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  
-  <img align="center" alt="GitHub" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-                 
-</div>
-
 
 
 
