@@ -1,4 +1,4 @@
-## Olá, eu sou o Gerlandio e sou desenvolvedor web!
+## Olá! Eu sou o Landio, desenvolvedor web.
 <p>Atualmente eu trabalho com as seguintes tecnoligas entre outras:</p>
 <p>Front-end</p>
 <div>
